@@ -28,8 +28,9 @@
 
 #navbar-container ul li
 {
-  float: left;
   padding: 10px 20px;
+  float: left;
+  display: block;
 }
 
 #navbar-container a
