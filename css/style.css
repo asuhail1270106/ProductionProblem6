@@ -2,83 +2,83 @@
 
 #main-navbar 
 {
-	background-color: blue;
-	width: 100%;
-	text-align: center;
-	position: relative;	
-	overflow: hidden;
+  background-color: blue;
+  width: 100%;
+  text-align: center;
+  position: relative;	
+  overflow: hidden;
 }
 
 #navbar-container 
 {
-	display: block;
-	left: 50%;
-	float: left;
-	position: relative;	
+  display: block;
+  left: 50%;
+  float: left;
+  position: relative;	
 }
 
 #navbar-container ul 
 {
-	list-style-type: none;
-	right: 50%;
-	margin: 0;
-	padding: 0;
-	position: relative;
-	float: left;
-	display: block;
+  list-style-type: none;
+  right: 50%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  float: left;
+  display: block;
 }
 
 #navbar-container ul li
 {
-	float: left;
-	padding: 10px 20px;
+  float: left;
+  padding: 10px 20px;
 }
 
 #navbar-container ul li a
 {
-	color: #fff;
-	text-decoration: none;
+  color: #fff;
+  text-decoration: none;
 }
 
 #navbar-container a:active
 {
-	background-color: #000;
+  background-color: #000;
 }
 
 #onpage 
 {
-	text-decoration: underline overline;
+  text-decoration: underline overline;
 }
 
 #sidebar 
 {
-	background-color: red;
-	height: 100%;
-	width: 20%;
-	right: 0%;
-	text-align: center;
-	position: fixed;	
+  background-color: red;
+  height: 100%;
+  width: 20%;
+  right: 0%;
+  text-align: center;
+  position: fixed;	
 }
 
 #sidebar ul 
 {
-	list-style-type: none;
-	padding: 0;
-	display: block;
+  list-style-type: none;
+  padding: 0;
+  display: block;
 }
 
 #sidebar ul li 
 {
-	padding: 15px 0;
+  padding: 15px 0;
 }
 
 #sidebar-container a 
 {
-	color: #fff;
-	text-decoration: none;
+  color: #fff;
+  text-decoration: none;
 }
 
 #sidebar-container a:active
 {
-	background-color: #000;
+  background-color: #000;
 }
